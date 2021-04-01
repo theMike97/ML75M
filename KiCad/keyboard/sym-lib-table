@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Keyboard_Custom)(type Legacy)(uri /home/mike/Documents/Keyboard_Project/KiCad/libs/custom/Keyboard_Custom.lib)(options "")(descr ""))
+)
