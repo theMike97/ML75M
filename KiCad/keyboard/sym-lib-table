@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name Keyboard_Custom)(type Legacy)(uri /home/mike/Documents/Keyboard_Project/KiCad/libs/custom/Keyboard_Custom.lib)(options "")(descr ""))
+  (lib (name Keyboard_Custom)(type Legacy)(uri /home/mike/git/ML75M/KiCad/libs/custom/Keyboard_Custom.lib)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "/home/mike/git/ML75M/KiCad/libs/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
 )
